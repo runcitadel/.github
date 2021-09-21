@@ -5,7 +5,8 @@ Our node provides the latest apps, together with our own, up-to-date user interf
 
 ### Roadmap
 
-Citadel is fully transparent and built by the community. That's why we're sharing our roadmap publicly
+Citadel is fully transparent and built by the community. That's why we're sharing our roadmap publicly for everyone.
+
 The following are planned stable releases, beta releases have already been done.
 
 ### 0.1.0: First release
