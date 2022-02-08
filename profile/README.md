@@ -20,4 +20,4 @@ We also make contributions to various open source projects used on Citadel to ma
 
 - [@AaronDewes](https://github.com/AaronDewes) - Back-end developer; Founder of the project
 - [@swedishfrenchpress](https://github.com/swedishfrenchpress) - Designer
-- [@WilliamConnatser](github.com/WilliamConnatser) - Front-end developer
+- [@WilliamConnatser](github.com/WilliamConnatser) - Full-stack developer
